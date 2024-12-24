@@ -1,0 +1,14 @@
+/home/hafizh/Documents/software-engineer/dotnet-focused-project/enigma-test/bin/Debug/net8.0/enigma-test
+/home/hafizh/Documents/software-engineer/dotnet-focused-project/enigma-test/bin/Debug/net8.0/enigma-test.deps.json
+/home/hafizh/Documents/software-engineer/dotnet-focused-project/enigma-test/bin/Debug/net8.0/enigma-test.runtimeconfig.json
+/home/hafizh/Documents/software-engineer/dotnet-focused-project/enigma-test/bin/Debug/net8.0/enigma-test.dll
+/home/hafizh/Documents/software-engineer/dotnet-focused-project/enigma-test/bin/Debug/net8.0/enigma-test.pdb
+/home/hafizh/Documents/software-engineer/dotnet-focused-project/enigma-test/obj/Debug/net8.0/enigma-test.GeneratedMSBuildEditorConfig.editorconfig
+/home/hafizh/Documents/software-engineer/dotnet-focused-project/enigma-test/obj/Debug/net8.0/enigma-test.AssemblyInfoInputs.cache
+/home/hafizh/Documents/software-engineer/dotnet-focused-project/enigma-test/obj/Debug/net8.0/enigma-test.AssemblyInfo.cs
+/home/hafizh/Documents/software-engineer/dotnet-focused-project/enigma-test/obj/Debug/net8.0/enigma-test.csproj.CoreCompileInputs.cache
+/home/hafizh/Documents/software-engineer/dotnet-focused-project/enigma-test/obj/Debug/net8.0/enigma-test.dll
+/home/hafizh/Documents/software-engineer/dotnet-focused-project/enigma-test/obj/Debug/net8.0/refint/enigma-test.dll
+/home/hafizh/Documents/software-engineer/dotnet-focused-project/enigma-test/obj/Debug/net8.0/enigma-test.pdb
+/home/hafizh/Documents/software-engineer/dotnet-focused-project/enigma-test/obj/Debug/net8.0/enigma-test.genruntimeconfig.cache
+/home/hafizh/Documents/software-engineer/dotnet-focused-project/enigma-test/obj/Debug/net8.0/ref/enigma-test.dll
